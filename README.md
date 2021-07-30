@@ -1,1 +1,1 @@
-# Survival-and-death-model
+# Survival-and-Death-Model
